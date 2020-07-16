@@ -1,16 +1,32 @@
-### Hi there 👋
+# Peter Otieno – @peter-akworo
+Hello👋. I'm Peter, I'm a Data Analyst(Beginner) working in Data Analysis|Data Science|Business Intelligence|DataViz in the humanitarian sector - so far in health(Malaria and HIV/Aids) and forced migration(Livelihood/Migration).
 
-<!--
-**peter-akworo/peter-akworo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+##🌱👯🤔💬 I’m currently learning, looking to collaborate on,need help with and can ask me about:
+ *Python. 
+ *PostgreSQL. 
+ *R.
+ *Stata.
+ *SPSS.
+ *ODK. 
+ *Git. 
+ *QGIS. 
+ *Tableau. 
+ *Excel.
+ *Google Earth Engine.
+ *JS Geospatial and data visualization libraries. 
+ *DHIS.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## :telescope: Find me online 📫
+
+**Personal site:** https://peter-akworo.github.io/
+
+**LinkedIn:** https://www.linkedin.com/in/peter-onyango/
+
+**Twitter:** https://twitter.com/DataNomadKE
+
+**Tableau Server:** https://public.tableau.com/profile/peterotieno
+
+**Discord Server:** (Under Construction)
+
+**Periodically, I write stuff:** https://peter-akworo.github.io/b
