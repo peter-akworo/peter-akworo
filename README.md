@@ -3,19 +3,19 @@ Hello👋. I'm Peter, I'm a Data Analyst(Beginner) working in Data Analysis|Data
 
 
 ##🌱👯🤔💬 I’m currently learning, looking to collaborate on,need help with and can ask me about:
- *Python. 
- *PostgreSQL. 
- *R.
- *Stata.
- *SPSS.
- *ODK. 
- *Git. 
- *QGIS. 
- *Tableau. 
- *Excel.
- *Google Earth Engine.
- *JS Geospatial and data visualization libraries. 
- *DHIS.
+ * Python. 
+ * PostgreSQL. 
+ * R.
+ * Stata.
+ * SPSS.
+ * ODK. 
+ * Git. 
+ * QGIS. 
+ * Tableau. 
+ * Excel.
+ * Google Earth Engine.
+ * JS Geospatial and data visualization libraries. 
+ * DHIS.
 
 ## :telescope: Find me online 📫
 
