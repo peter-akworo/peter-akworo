@@ -2,7 +2,7 @@
 Hello👋. I'm Peter, I'm a Data Analyst(Beginner) working in Data Analysis|Data Science|Business Intelligence|DataViz in the humanitarian sector - so far in health(Malaria and HIV/Aids) and forced migration(Livelihood/Migration).
 
 
-## 🌱👯🤔💬 I’m currently learning, looking to collaborate on,need help with and you can ask me about:
+## 🌱👯🤔💬 I’m currently learning,looking to collaborate and have a conversation on:
  * Python. 
  * PostgreSQL. 
  * R.
