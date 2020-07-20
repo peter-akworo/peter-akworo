@@ -1,4 +1,9 @@
 # Peter Otieno – @peter-akworo
+
+[![GitHub Badge](https://img.shields.io/github/followers/peter-akworo?style=social)](https://github.com/peter-akworo)
+[![Twitter Badge](https://img.shields.io/twitter/follow/DataNomadKE?style=social)](https://twitter.com/DataNomadKE)
+[![LinkedIn Badge](https://img.shields.io/badge/My-LinkedIn-blue)](https://www.linkedin.com/in/peter-onyango/)
+
 Hello👋. I'm Peter, I'm a Data Analyst(Beginner) working in Data Analysis| Data Science| DataViz in the humanitarian sector - so far in health(Malaria and HIV/Aids) and forced migration(Livelihood/Migration).
 
 
@@ -30,3 +35,6 @@ Hello👋. I'm Peter, I'm a Data Analyst(Beginner) working in Data Analysis| Dat
 **Discord Server:** (Under Construction)
 
 **Periodically, I write stuff:** https://peter-akworo.github.io/b
+
+
+![github stats](https://github-readme-stats.vercel.app/api?username=peter-akworo&show_icons=true)
