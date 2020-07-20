@@ -9,7 +9,7 @@ Hello👋. I'm Peter, I'm a Data Analyst(Beginner) working in Data Analysis| Dat
 
 
 ## 🌱👯🤔💬 I’m currently learning, looking to collaborate and have a conversation on:
-*`Python.`* *`PostgreSQL`*. *`R.`* Stata. SPSS. ODK. Git. QGIS. Tableau. Excel. Google Earth Engine. JS Geospatial and data visualization libraries. DHIS.
+*`Python.`* *`PostgreSQL.`* *`R.`* *`Stata.`* *`SPSS.`* *`ODK.`* *`Git.`* *`QGIS.`* *`Tableau.`* *`Excel.`* *`Google Earth Engine.`* *`JS Geospatial and data visualization libraries.`* *`DHIS.`*
 
 ## :telescope: Find me online 📫
 
