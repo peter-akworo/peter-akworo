@@ -3,6 +3,7 @@
 [![GitHub Badge](https://img.shields.io/github/followers/peter-akworo?style=social)](https://github.com/peter-akworo)
 [![Twitter Badge](https://img.shields.io/twitter/follow/DataNomadKE?style=social)](https://twitter.com/DataNomadKE)
 [![LinkedIn Badge](https://img.shields.io/badge/My-LinkedIn-blue)](https://www.linkedin.com/in/peter-onyango/)
+[![CV Badge](https://img.shields.io/badge/My-CV-critical)](https://drive.google.com/open?id=1gwHw9gMmIa-pfVkyDPUQqvnPsFsTXu1V)
 
 Hello👋. I'm Peter, I'm a Data Analyst(Beginner) working in Data Analysis| Data Science| DataViz in the humanitarian sector - so far in health(Malaria and HIV/Aids) and forced migration(Livelihood/Migration).
 
@@ -34,7 +35,7 @@ Hello👋. I'm Peter, I'm a Data Analyst(Beginner) working in Data Analysis| Dat
 
 **Discord Server:** (Under Construction)
 
-**Periodically, I write stuff:** https://peter-akworo.github.io/b
+**Periodically, I write stuff:** https://peter-akworo.github.io/blog
 
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=peter-akworo&show_icons=true)
