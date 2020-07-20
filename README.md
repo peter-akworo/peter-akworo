@@ -5,7 +5,7 @@
 [![LinkedIn Badge](https://img.shields.io/badge/My-LinkedIn-blue)](https://www.linkedin.com/in/peter-onyango/)
 [![CV Badge](https://img.shields.io/badge/My-CV-critical)](https://drive.google.com/open?id=1gwHw9gMmIa-pfVkyDPUQqvnPsFsTXu1V)
 
-Hello👋. I'm Peter, I'm a Data Analyst(Beginner) working in Data Analysis| Data Science| DataViz in the humanitarian sector - so far in health(Malaria and HIV/Aids) and forced migration(Livelihood/Migration).
+Hello👋. I'm Peter, I'm a Data Analyst(Beginner) working in Data Analysis| Data Science| DataViz in the humanitarian sector - so far in Health(Malaria and HIV/Aids) and Forced Migration(Livelihood/Migration).
 
 
 ## 🌱👯🤔💬 I’m currently learning, looking to collaborate and have a conversation on:
